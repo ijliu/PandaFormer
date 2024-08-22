@@ -1,0 +1,5 @@
+ScentMarking	0
+Exploring	1
+Walking	2
+Resting	3
+Sniffing	4
